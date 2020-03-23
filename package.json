@@ -5,7 +5,7 @@
     "npm": "6.11.3",
     "node": "12.1.0"
   },
-  "main" : "index.js",
+  "main":"index.js",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
